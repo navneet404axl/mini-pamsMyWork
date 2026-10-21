@@ -1,0 +1,123 @@
+t,app,current_mb,file_mb,anon_mb,majfault_per_s,pressure_avg10,emergency,memory_low_mb,cpu_weight,reason
+1,cache_app,2035,2029,0,0,1.61,false,0,100,calm: relax protection
+1,heap_app,3083,0,3076,0,0.00,false,0,100,calm: relax protection
+2,cache_app,2036,2029,0,0,1.61,false,0,100,calm: relax protection
+2,heap_app,3083,0,3076,0,0.00,false,0,100,calm: relax protection
+3,cache_app,2036,2027,0,0,7.30,false,256,100,cache being evicted: protect more
+3,heap_app,3083,0,3076,0,0.00,false,0,100,calm: relax protection
+4,cache_app,2036,2028,0,0,7.30,false,512,100,cache being evicted: protect more
+4,heap_app,3083,0,3076,0,0.00,false,0,100,calm: relax protection
+5,cache_app,2035,2026,0,0,11.95,false,768,100,cache being evicted: protect more
+5,heap_app,3083,0,3076,0,0.00,false,0,100,calm: relax protection
+6,cache_app,2036,2029,0,0,11.95,false,1024,100,cache being evicted: protect more
+6,heap_app,3083,0,3076,0,0.00,false,0,100,calm: relax protection
+7,cache_app,2036,2029,1,0,10.87,false,1280,100,cache being evicted: protect more
+7,heap_app,3083,0,3076,0,0.00,false,0,100,calm: relax protection
+8,cache_app,2036,2028,1,0,10.87,false,1536,100,cache being evicted: protect more
+8,heap_app,3083,0,3076,0,0.00,false,0,100,calm: relax protection
+9,cache_app,2036,2029,1,0,10.35,false,1792,100,cache being evicted: protect more
+9,heap_app,3083,0,3076,0,0.00,false,0,100,calm: relax protection
+10,cache_app,2036,2028,1,0,10.35,false,2048,100,cache being evicted: protect more
+10,heap_app,3083,0,3076,0,0.00,false,0,100,calm: relax protection
+11,cache_app,2034,2025,1,0,9.56,false,2304,100,cache being evicted: protect more
+11,heap_app,3085,0,3078,0,0.00,false,0,100,calm: relax protection
+12,cache_app,2034,2026,1,0,9.56,false,2560,100,cache being evicted: protect more
+12,heap_app,3085,0,3078,0,0.00,false,0,100,calm: relax protection
+13,cache_app,2034,2026,1,0,9.10,false,2816,100,cache being evicted: protect more
+13,heap_app,3085,0,3078,0,0.00,false,0,100,calm: relax protection
+14,cache_app,2034,2027,1,0,9.10,false,3072,100,cache being evicted: protect more
+14,heap_app,3085,0,3078,0,0.00,false,0,100,calm: relax protection
+15,cache_app,2034,2027,1,0,8.17,false,3328,100,cache being evicted: protect more
+15,heap_app,3085,0,3078,0,0.00,false,0,100,calm: relax protection
+16,cache_app,2034,2026,1,0,8.17,false,3584,100,cache being evicted: protect more
+16,heap_app,3085,0,3078,0,0.00,false,0,100,calm: relax protection
+17,cache_app,2034,2027,1,0,7.42,false,3840,100,cache being evicted: protect more
+17,heap_app,3085,0,3078,0,0.00,false,0,100,calm: relax protection
+18,cache_app,2034,2026,1,0,7.42,false,4096,100,cache being evicted: protect more
+18,heap_app,3085,0,3078,0,0.00,false,0,100,calm: relax protection
+19,cache_app,2034,2026,1,0,6.80,false,4096,100,cache being evicted: protect more
+19,heap_app,3085,0,3078,0,0.00,false,0,100,calm: relax protection
+20,cache_app,2034,2027,1,0,6.80,false,4096,100,cache being evicted: protect more
+20,heap_app,3085,0,3078,0,0.00,false,0,100,calm: relax protection
+21,cache_app,2034,2025,1,0,6.11,false,4096,100,cache being evicted: protect more
+21,heap_app,3085,0,3078,0,0.00,false,0,100,calm: relax protection
+22,cache_app,2034,2025,1,0,6.11,false,4096,100,cache being evicted: protect more
+22,heap_app,3085,0,3078,0,0.00,false,0,100,calm: relax protection
+23,cache_app,2034,2025,1,0,5.54,false,4096,100,cache being evicted: protect more
+23,heap_app,3085,0,3078,0,0.00,false,0,100,calm: relax protection
+24,cache_app,2034,2027,1,0,5.54,false,4096,100,cache being evicted: protect more
+24,heap_app,3085,0,3078,0,0.00,false,0,100,calm: relax protection
+25,cache_app,2034,2026,1,0,4.90,false,3840,100,calm: relax protection
+25,heap_app,3085,0,3078,0,0.00,false,0,100,calm: relax protection
+26,cache_app,2034,2026,1,0,4.90,false,3584,100,calm: relax protection
+26,heap_app,3085,0,3078,0,0.00,false,0,100,calm: relax protection
+27,cache_app,2034,2025,1,0,4.19,false,3328,100,calm: relax protection
+27,heap_app,3085,0,3078,0,0.00,false,0,100,calm: relax protection
+28,cache_app,2034,2025,1,0,4.19,false,3072,100,calm: relax protection
+28,heap_app,3085,0,3078,0,0.00,false,0,100,calm: relax protection
+29,cache_app,2034,2026,1,0,3.79,false,2816,100,calm: relax protection
+29,heap_app,3085,0,3078,0,0.00,false,0,100,calm: relax protection
+30,cache_app,2034,2026,1,0,3.79,false,2560,100,calm: relax protection
+30,heap_app,3085,0,3078,0,0.00,false,0,100,calm: relax protection
+31,cache_app,2034,2026,1,0,3.29,false,2304,100,calm: relax protection
+31,heap_app,3085,0,3078,0,0.00,false,0,100,calm: relax protection
+32,cache_app,2033,2025,1,0,3.29,false,2048,100,calm: relax protection
+32,heap_app,3085,0,3078,0,0.00,false,0,100,calm: relax protection
+33,cache_app,2033,2025,1,0,3.05,false,1792,100,calm: relax protection
+33,heap_app,3085,0,3078,0,0.00,false,0,100,calm: relax protection
+34,cache_app,2034,2025,1,0,3.05,false,1536,100,calm: relax protection
+34,heap_app,3085,0,3078,0,0.00,false,0,100,calm: relax protection
+35,cache_app,2034,2026,1,0,2.68,false,1280,100,calm: relax protection
+35,heap_app,3085,0,3078,0,0.00,false,0,100,calm: relax protection
+36,cache_app,2034,2025,1,0,2.68,false,1024,100,calm: relax protection
+36,heap_app,3085,0,3078,0,0.00,false,0,100,calm: relax protection
+37,cache_app,2034,2025,1,0,2.37,false,768,100,calm: relax protection
+37,heap_app,3085,0,3078,0,0.00,false,0,100,calm: relax protection
+38,cache_app,2034,2025,1,0,2.37,false,512,100,calm: relax protection
+38,heap_app,3085,0,3078,0,0.00,false,0,100,calm: relax protection
+39,cache_app,2034,2025,1,0,2.12,false,256,100,calm: relax protection
+39,heap_app,3085,0,3078,0,0.00,false,0,100,calm: relax protection
+40,cache_app,2033,2023,1,0,2.12,false,0,100,calm: relax protection
+40,heap_app,3085,0,3078,0,0.00,false,0,100,calm: relax protection
+41,cache_app,2033,2024,1,0,1.92,false,0,100,calm: relax protection
+41,heap_app,3085,0,3078,0,0.00,false,0,100,calm: relax protection
+42,cache_app,2034,2025,1,0,1.92,false,0,100,calm: relax protection
+42,heap_app,3085,0,3078,0,0.00,false,0,100,calm: relax protection
+43,cache_app,2033,2024,1,0,1.75,false,0,100,calm: relax protection
+43,heap_app,3085,0,3078,0,0.00,false,0,100,calm: relax protection
+44,cache_app,2033,2023,1,0,1.75,false,0,100,calm: relax protection
+44,heap_app,3085,0,3078,0,0.00,false,0,100,calm: relax protection
+45,cache_app,2033,2023,1,0,1.43,false,0,100,calm: relax protection
+45,heap_app,3085,0,3078,0,0.00,false,0,100,calm: relax protection
+46,cache_app,2033,2023,1,0,1.43,false,0,100,calm: relax protection
+46,heap_app,3085,0,3078,0,0.00,false,0,100,calm: relax protection
+47,cache_app,2034,2025,1,0,1.17,false,0,100,calm: relax protection
+47,heap_app,3085,0,3078,0,0.00,false,0,100,calm: relax protection
+48,cache_app,2033,2023,1,0,1.17,false,0,100,calm: relax protection
+48,heap_app,3085,0,3078,0,0.00,false,0,100,calm: relax protection
+49,cache_app,2034,2024,1,0,1.14,false,0,100,calm: relax protection
+49,heap_app,3085,0,3078,0,0.00,false,0,100,calm: relax protection
+50,cache_app,2033,2024,1,0,1.14,false,0,100,calm: relax protection
+50,heap_app,3085,0,3078,0,0.00,false,0,100,calm: relax protection
+51,cache_app,2034,2025,1,0,0.93,false,0,100,calm: relax protection
+51,heap_app,3085,0,3078,0,0.00,false,0,100,calm: relax protection
+52,cache_app,2034,2024,1,0,0.93,false,0,100,calm: relax protection
+52,heap_app,3085,0,3078,0,0.00,false,0,100,calm: relax protection
+53,cache_app,2033,2023,1,0,0.76,false,0,100,calm: relax protection
+53,heap_app,3085,0,3078,0,0.00,false,0,100,calm: relax protection
+54,cache_app,2033,2024,1,0,0.76,false,0,100,calm: relax protection
+54,heap_app,3085,0,3078,0,0.00,false,0,100,calm: relax protection
+55,cache_app,2033,2024,1,0,0.62,false,0,100,calm: relax protection
+55,heap_app,3085,0,3078,0,0.00,false,0,100,calm: relax protection
+56,cache_app,2034,2025,1,0,0.62,false,0,100,calm: relax protection
+56,heap_app,3085,0,3078,0,0.00,false,0,100,calm: relax protection
+57,cache_app,2033,2025,1,0,0.51,false,0,100,calm: relax protection
+57,heap_app,3085,0,3078,0,0.00,false,0,100,calm: relax protection
+58,cache_app,2034,2025,1,0,0.51,false,0,100,calm: relax protection
+58,heap_app,3085,0,3078,0,0.00,false,0,100,calm: relax protection
+59,cache_app,2033,2025,1,0,0.42,false,0,100,calm: relax protection
+59,heap_app,3085,0,3078,0,0.00,false,0,100,calm: relax protection
+60,cache_app,2033,2024,1,0,0.42,false,0,100,calm: relax protection
+60,heap_app,3085,0,3078,0,0.00,false,0,100,calm: relax protection
+61,cache_app,2032,2025,0,0,0.34,false,0,100,calm: relax protection
+61,heap_app,250,0,206,0,0.00,false,0,100,calm: relax protection

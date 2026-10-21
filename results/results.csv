@@ -1,0 +1,13 @@
+limit,mode,cache_ops_per_sec,heap_mpages_per_sec
+6G,cache_alone,5359815,
+6G,heap_alone,,63.22
+6G,shared,126595,105.43
+6G,minipams,125107,99.13
+5G,cache_alone,5258945,
+5G,heap_alone,,61.20
+5G,shared,64324,101.45
+5G,minipams,64561,114.02
+4G,cache_alone,3403548,
+4G,heap_alone,,62.13
+4G,shared,44286,97.31
+4G,minipams,43969,92.41
